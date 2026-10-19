@@ -1,0 +1,5 @@
+yfinance>=0.2.40
+quantstats>=0.0.62
+pandas>=2.0
+matplotlib>=3.8
+akshare>=1.14
